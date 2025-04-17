@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "be.alexisdraux.pioupioumap": {
+      "version": "https://github.com/Sanad4Code/2025_04_17_BonjourPiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0d11851d718d337b2b4a854a74d10c4298cea171"
+    },
+    "be.dynur.pioupioumap": {
+      "version": "https://github.com/dylnur/2025_04_17_BonjourPiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a9eec294a265b135425584c402f86939ddbb6448"
+    },
     "be.elab.blockscolor": {
       "version": "https://github.com/EloiStree/2024_10_16_BlocksColor.git",
       "depth": 0,
@@ -19,28 +33,42 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d003592e3fb642711ebdece178dc9070777afa36"
+      "hash": "883ef07de5e618325eace055193cafdc050e766c"
+    },
+    "be.elab.missingscript": {
+      "version": "https://github.com/EloiStree/2024_10_16_FindMissingScript.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0f971cdaf7f59bab42d60f3fa9bc21d3a772dfae"
     },
     "be.elab.ovnitoy": {
       "version": "https://github.com/EloiStree/2025_04_15_KidToyOvniCode.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a2940302d297752372ced4c88ef01a2da7d4852a"
+      "hash": "1387b66d47bf9835d52118582137af3b99a21811"
+    },
+    "be.elab.pioupiougroupmap": {
+      "version": "https://github.com/EloiStree/2025_04_17_BonjourPiouPiouMapGroup.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d4ea5ec2cf73f3d167ee519925f419bf76d1975d"
     },
     "be.elab.pioupiousetup": {
       "version": "https://github.com/EloiStree/2025_04_16_Quai10PiouPiouAttackSetup.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "780b9decbab30cac1feeae651a9ac6098b6997d0"
+      "hash": "8936b90381ba7243bd302f48fb561fabccc2e7d5"
     },
     "be.elab.primitiverelay": {
       "version": "https://github.com/EloiStree/2025_04_02_FacadePrimitiveValueRelay.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "427243aa756a19cfb8eed98de037fd52e364f6a5"
+      "hash": "825ecadd17f45c5216fd0eca37d00a5319b6011e"
     },
     "be.elab.quickgitutility": {
       "version": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
@@ -49,19 +77,33 @@
       "dependencies": {},
       "hash": "34d6327cfd264e2a5bc9e3cf902dead63f11a103"
     },
-    "be.elab.techochickarxr": {
+    "be.elab.techochickartxr": {
       "version": "https://github.com/EloiStree/2025_04_16_TechnoChickArtXR.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "222123bbf5d842ad9fd673f59ef68f57749ed0d2"
+      "hash": "be57fca764774d5bab73a233e6e69047365f4f37"
     },
     "be.elab.tickcollection": {
       "version": "https://github.com/EloiStree/OpenUPM_TickCollection.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "f7c20645fe7b095e1220fa32cf54664c690b6a92"
+      "hash": "4828ec0d3a93fed971cd9318f8e82bd4a3a4fb3b"
+    },
+    "be.elab.timepercent": {
+      "version": "https://github.com/EloiStree/2025_02_17_TimePercentInterface.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "588203c1ac5f8292daaade331d83b3403b8dae4b"
+    },
+    "be.elab.unityfetchoffsetntp": {
+      "version": "https://github.com/EloiStree/OpenUPM_UnityFetchOffsetNTP.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a2d636daf107d6853195cefe0b38fac9cfd6352f"
     },
     "be.elab.unitypackagefacilitator": {
       "version": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
@@ -76,6 +118,69 @@
       "source": "git",
       "dependencies": {},
       "hash": "be74817a53d61774c7e0f01bfba9ccf1ffd4244a"
+    },
+    "be.eloistree.pioupioumap": {
+      "version": "https://github.com/EloiStree/2025_04_17_BonjourPiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "298d0ac55457a43a17484dcad6eee83109c48410"
+    },
+    "be.jorgeehdeez.pioupioumap": {
+      "version": "https://github.com/JorgeeHdeez/2025_04_17_BonjourPiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d2f8d5d1df793c7f276df16009bcf55c039f1471"
+    },
+    "be.marvinroland.pioupioumap": {
+      "version": "https://github.com/MarvinRoland/2025_04_170_BonjourPiouPiou.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b792feaea3b7321488f1829bc299eb8cba01877b"
+    },
+    "be.nathsoupart.pioupioumap": {
+      "version": "https://github.com/nathsoupart/2025_04_17_BonjourPiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "998d8cb512aee0c7486a16c745b8d36a97b97074"
+    },
+    "be.pixawn.chickisland": {
+      "version": "https://github.com/Ryuuwn420/2025_04_15BonjourPiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "7d398ed201cc8055ea7f38f816b3f060afc9c0cc"
+    },
+    "be.poder.pioupioumap": {
+      "version": "https://github.com/jarmych/2025_04_17_BonjourPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "bf52753f3ef68ccaf20a3dcb32abd67cf09bd9cd"
+    },
+    "be.raftak.pioupioumap": {
+      "version": "https://github.com/MaxPFT/2025_04_17_HelloPiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "662c7b8d9fc41bde45e4e19b68f022489fa5d0d3"
+    },
+    "be.robertlibert.pioupioumap": {
+      "version": "https://github.com/RobertLibert/2025_04_17_BonjourPiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "62bd7e2c77519b694c5dc79d96f5a39d21c252d4"
+    },
+    "be.seblucverh.pioupioumap": {
+      "version": "https://github.com/SebastVer/2025_04_17_BonjourPiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4292ea92978aef6560f7a8e2882059e27437522e"
     },
     "com.meta.xr.mrutilitykit": {
       "version": "74.0.2",

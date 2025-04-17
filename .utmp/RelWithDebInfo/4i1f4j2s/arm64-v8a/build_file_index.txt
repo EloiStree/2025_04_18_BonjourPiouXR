@@ -1,0 +1,2 @@
+C:\U\Client\Technocite\2025_04_18_LTS_BonjourPiouXR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\U\Client\Technocite\2025_04_18_LTS_BonjourPiouXR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
