@@ -42,13 +42,6 @@
       "dependencies": {},
       "hash": "ae14ea5830c475d902d3946373888f887c77f6f9"
     },
-    "be.elab.killhumansovni": {
-      "version": "https://github.com/EloiStree/2025_04_17_KillAllHumansByAbductionOVNI.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "535638878141078455649030eb8d5ef5e8d528d5"
-    },
     "be.elab.missingscript": {
       "version": "https://github.com/EloiStree/2024_10_16_FindMissingScript.git",
       "depth": 0,
@@ -75,7 +68,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "490d86afb7c9c442a1e1b90cac2b683f7860328e"
+      "hash": "3f657afc8a0d7c870f6bef81b6508e1e1ef4f8f3"
     },
     "be.elab.primitiverelay": {
       "version": "https://github.com/EloiStree/2025_04_02_FacadePrimitiveValueRelay.git",
@@ -187,7 +180,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "5d32542e4a083002b6e884c54b677d700e22f305"
+      "hash": "d3110e62e9172859ee64f9c0b7ffbf3307fef53f"
     },
     "be.raftak.pioupioumap": {
       "version": "https://github.com/MaxPFT/2025_04_17_HelloPiouPiouMap.git",
@@ -201,14 +194,14 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "dab78e27926935338fae0132251a8e71c1851b72"
+      "hash": "ba37ac2f81ad64d80dd9d83e82e03ce5d016ab05"
     },
     "be.seblucverh.pioupioumap": {
       "version": "https://github.com/SebastVer/2025_04_17_BonjourPiouPiouMap.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "98d4bfd1e6a27b40e7a0945b5fd0e1f4f4388df8"
+      "hash": "6635bf10f42d41f86712c54ce55e0fe9da81e139"
     },
     "com.meta.xr.mrutilitykit": {
       "version": "74.0.2",
@@ -308,7 +301,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ai.navigation": {
-      "version": "2.0.6",
+      "version": "2.0.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -317,7 +310,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.19",
+      "version": "1.8.21",
       "depth": 2,
       "source": "registry",
       "dependencies": {
@@ -503,11 +496,11 @@
       }
     },
     "com.unity.test-framework.performance": {
-      "version": "3.0.3",
+      "version": "3.1.0",
       "depth": 3,
       "source": "registry",
       "dependencies": {
-        "com.unity.test-framework": "1.1.31",
+        "com.unity.test-framework": "1.1.33",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
@@ -584,7 +577,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.openxr": {
-      "version": "1.14.2",
+      "version": "1.14.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
