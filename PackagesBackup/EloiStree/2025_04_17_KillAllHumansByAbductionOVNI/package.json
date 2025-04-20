@@ -1,0 +1,29 @@
+
+{                                                                                
+  "name": "be.elab.killhumansovni",                              
+  "displayName": "Kill All Humans OVNI Sample",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Sample demo of two package, abduction and KillAllHumans.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ] ,     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_04_17_KillAllHumansByAbductionOVNI.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

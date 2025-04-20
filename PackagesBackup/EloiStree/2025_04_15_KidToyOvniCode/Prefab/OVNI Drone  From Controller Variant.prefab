@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2893187016400927877
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 47277679086574442, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 706571340672811517, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_onMoveDownToUpPercent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 3219177471150929881}
+    - target: {fileID: 706571340672811517, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_onMoveLeftToRightPercent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 3219177471150929881}
+    - target: {fileID: 706571340672811517, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_onMoveBackwardToForwardPercent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 3219177471150929881}
+    - target: {fileID: 706571340672811517, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_onMoveBackwardToForwardPercent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetBackwardToForwardPercent
+      objectReference: {fileID: 0}
+    - target: {fileID: 706571340672811517, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_onMoveDownToUpPercent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Eloi.OvniToy.OvniToyMono_MoveFromControllerPosition, be.elab.ovnitoy
+      objectReference: {fileID: 0}
+    - target: {fileID: 706571340672811517, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_onMoveLeftToRightPercent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Eloi.OvniToy.OvniToyMono_MoveFromControllerPosition, be.elab.ovnitoy
+      objectReference: {fileID: 0}
+    - target: {fileID: 706571340672811517, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_onMoveBackwardToForwardPercent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Eloi.OvniToy.OvniToyMono_MoveFromControllerPosition, be.elab.ovnitoy
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.919
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8559555679817979462, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_Name
+      value: OVNI Drone  From Controller Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 9089225967237769575, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 9089225967237769575, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3219177471150929881}
+  m_SourcePrefab: {fileID: 100100000, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+--- !u!1 &6198572253310866914 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9089225967237769575, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+  m_PrefabInstance: {fileID: 2893187016400927877}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3219177471150929881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6198572253310866914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb837b396f526b34db8d335e1d2d7b7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_controllerToObserve: {fileID: 0}
+  m_ovniToMove: {fileID: 8285721732272181068}
+  m_leftToRightSpeedPerSeconds: 1
+  m_downToUpSpeedPerSeconds: 1
+  m_backwardToForwardSpeedPerSeconds: 1
+  m_leftToRightPercent: 0
+  m_downToUpPercent: 0
+  m_backwardToForwardPercent: 0
+  m_globalSpeedMultiplicator: 1
+  m_useDebugLine: 1
+--- !u!4 &8285721732272181068 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6546657464312935369, guid: 3d7f5ff398b559447ab222970d2a19a4, type: 3}
+  m_PrefabInstance: {fileID: 2893187016400927877}
+  m_PrefabAsset: {fileID: 0}

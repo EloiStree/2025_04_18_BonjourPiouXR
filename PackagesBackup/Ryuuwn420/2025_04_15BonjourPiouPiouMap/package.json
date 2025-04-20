@@ -1,0 +1,27 @@
+{                                                                                
+  "name": "be.pixawn.chickisland",                              
+  "displayName": "LibertShawnChickIsland",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "LibertShawn Piou Piou Map XR",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples": [
+    {
+      "displayName": "Libert Shawn Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ] ,     
+  "author" : {
+"name":"Libert Shawn",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

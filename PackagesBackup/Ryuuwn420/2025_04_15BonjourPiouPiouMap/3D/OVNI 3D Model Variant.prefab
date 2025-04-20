@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &24936595137781367
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.089599
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.089599
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.089599
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.12304
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.74346
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.11185
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92330927
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.17945875
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.06478431
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.33331302
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 21.998
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8734041749179723413, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 39.699
+      objectReference: {fileID: 0}
+    - target: {fileID: 9173704852659006925, guid: deab33aecafe44b478d8276513878152, type: 3}
+      propertyPath: m_Name
+      value: OVNI 3D Model Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 9173704852659006925, guid: deab33aecafe44b478d8276513878152, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8554217249300674860}
+    - targetCorrespondingSourceObject: {fileID: 9173704852659006925, guid: deab33aecafe44b478d8276513878152, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7477078127589937164}
+    - targetCorrespondingSourceObject: {fileID: 9173704852659006925, guid: deab33aecafe44b478d8276513878152, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6582029400671739395}
+  m_SourcePrefab: {fileID: 100100000, guid: deab33aecafe44b478d8276513878152, type: 3}
+--- !u!1 &9157819458383524794 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9173704852659006925, guid: deab33aecafe44b478d8276513878152, type: 3}
+  m_PrefabInstance: {fileID: 24936595137781367}
+  m_PrefabAsset: {fileID: 0}
+--- !u!135 &8554217249300674860
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9157819458383524794}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.038
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &7477078127589937164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9157819458383524794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87e587c20a3dde04ba4cc45432c88e4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_onTouch:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 6582029400671739395}
+        m_TargetAssemblyTypeName: Meurtre, Assembly-CSharp
+        m_MethodName: KillMe
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &6582029400671739395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9157819458383524794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 324de6a6c8d82314ca4a82bb46dc36ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -1,0 +1,29 @@
+
+{                                                                                
+  "name": "be.elab.pioupiousetup",                              
+  "displayName": "Quai10  Piou Piou Setup",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Tool to keep track of what to install to be able to drag and drop the project.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ] ,     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_04_16_Quai10PiouPiouAttackSetup.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

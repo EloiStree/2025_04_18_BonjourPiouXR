@@ -1,0 +1,29 @@
+
+{                                                                                
+  "name": "be.elab.pioupiougroupmap",                              
+  "displayName": "Group Maps for Piou Piou Git Workshop",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "You package description",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ] ,     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_04_17_BonjourPiouPiouMapGroup.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

@@ -1,0 +1,30 @@
+
+{                                                                                
+  "name": "be.elab.unityfetchoffsetntp",                              
+  "displayName": "Unity Fetch Offset NTP",                        
+  "version": "2025.1.16",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Fetch the offset of a NTP server.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+ "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": "https://github.com/EloiStree/"
+  },  
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_07_07_UnityFetchOffsetNTP.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

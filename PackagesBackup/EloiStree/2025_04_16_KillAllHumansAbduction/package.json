@@ -1,0 +1,29 @@
+
+{                                                                                
+  "name": "be.elab.killallhumans",                              
+  "displayName": "Kill All Humans Abduction",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package is just a tool made in a workshop that allows to make quick game where you need to defend or kill all the humans.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ] ,     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_04_16_KillAllHumansAbduction.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

@@ -1,0 +1,27 @@
+{
+    "name": "be.elab.quickgitutility",
+    "displayName": "Quick Git Utility",
+    "version": "2025.1.16",
+    "unity": "2018.1",
+    "description": "Tools to execute git instructions from command line.",
+    "keywords": [
+        "Script",
+        "Tool",
+        "Productivity",
+        "Git",
+        "Utility"
+    ],     
+ "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": "https://github.com/EloiStree/"
+  },  
+    "category": "Script"
+}

@@ -1,0 +1,33 @@
+
+{                                                                                
+     "name": "be.elab.unitypackagefacilitator",
+    "displayName": "Unity Package Facilitator",
+    "version": "2025.1.16",
+    "unity": "2018.1",
+    "description": "Tools to create the structure of new unity package under 2 minutes.",
+    "keywords": [
+        "Script",
+        "Tool",
+        "Productivity",
+        "Git",
+        "Unity Package"
+    ],     
+ "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": "https://github.com/EloiStree/"
+  },     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+"footprint":"",
+"revision":"32e4686dc92a127a4eb110d076a46e6382aab947"},     
+  "category": "Script"                   
+} 

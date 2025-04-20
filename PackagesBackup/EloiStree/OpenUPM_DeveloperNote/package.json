@@ -1,0 +1,30 @@
+
+{                                                                                
+  "name": "be.elab.developernote",                              
+  "displayName": "Developer Note",                        
+  "version": "1.0.0",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Allows to put some developer note in your project.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+ "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": "https://github.com/EloiStree/"
+  },    
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_08_09_DeveloperNote.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
