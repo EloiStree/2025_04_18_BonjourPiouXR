@@ -1,0 +1,2 @@
+C:\P\2025_04_18_BonjourPiouXR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\P\2025_04_18_BonjourPiouXR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

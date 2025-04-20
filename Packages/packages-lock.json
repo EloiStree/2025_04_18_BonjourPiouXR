@@ -5,14 +5,14 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "0d11851d718d337b2b4a854a74d10c4298cea171"
+      "hash": "f2a97c7927e9244d936b67d1d442f05e008ba9ec"
     },
     "be.dynur.pioupioumap": {
       "version": "https://github.com/dylnur/2025_04_17_BonjourPiouPiouMap.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a9eec294a265b135425584c402f86939ddbb6448"
+      "hash": "b6c5730e02a2c9a48842f253866a115996d24fee"
     },
     "be.elab.blockscolor": {
       "version": "https://github.com/EloiStree/2024_10_16_BlocksColor.git",
@@ -33,7 +33,14 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "883ef07de5e618325eace055193cafdc050e766c"
+      "hash": "208af1bd63877069cb00eef4e4936cd5715139df"
+    },
+    "be.elab.killhumansovni": {
+      "version": "https://github.com/EloiStree/2025_04_17_KillAllHumansByAbductionOVNI.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ae14ea5830c475d902d3946373888f887c77f6f9"
     },
     "be.elab.killhumansovni": {
       "version": "https://github.com/EloiStree/2025_04_17_KillAllHumansByAbductionOVNI.git",
@@ -131,63 +138,77 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "298d0ac55457a43a17484dcad6eee83109c48410"
+      "hash": "a6087fdf27a9280c50d392d28854673816960ebb"
     },
     "be.jorgeehdeez.pioupioumap": {
       "version": "https://github.com/JorgeeHdeez/2025_04_17_BonjourPiouPiouMap.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d2f8d5d1df793c7f276df16009bcf55c039f1471"
+      "hash": "32b716e3c45aa415865bbd17422889e6853bfc8c"
+    },
+    "be.julien.pioupioumap": {
+      "version": "https://github.com/SaberArtoria200/2025_04_18_PiouPiouMap.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "db1ed74b157ed9ba20fc43b9da5ee13d4cdbe754"
+    },
+    "be.marvin.techomeasure": {
+      "version": "https://github.com/MarvinRoland/2025_04_18_Quai10TechnoMeasure.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "16de1b4cd59b0f162a4188b4285070536b64966a"
     },
     "be.marvinroland.pioupioumap": {
       "version": "https://github.com/MarvinRoland/2025_04_170_BonjourPiouPiou.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "b792feaea3b7321488f1829bc299eb8cba01877b"
+      "hash": "e03500a88ef6565ce519bcdcea16ffb00660adda"
     },
     "be.nathsoupart.pioupioumap": {
       "version": "https://github.com/nathsoupart/2025_04_17_BonjourPiouPiouMap.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "998d8cb512aee0c7486a16c745b8d36a97b97074"
+      "hash": "0f479017d6480fc43dc3534f1727fd9277822b4d"
     },
     "be.pixawn.chickisland": {
       "version": "https://github.com/Ryuuwn420/2025_04_15BonjourPiouPiouMap.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "7d398ed201cc8055ea7f38f816b3f060afc9c0cc"
+      "hash": "b13e831e85d94636615c5c0e49b86ea9588029e3"
     },
     "be.poder.pioupioumap": {
       "version": "https://github.com/jarmych/2025_04_17_BonjourPiouMap.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "bf52753f3ef68ccaf20a3dcb32abd67cf09bd9cd"
+      "hash": "5d32542e4a083002b6e884c54b677d700e22f305"
     },
     "be.raftak.pioupioumap": {
       "version": "https://github.com/MaxPFT/2025_04_17_HelloPiouPiouMap.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "662c7b8d9fc41bde45e4e19b68f022489fa5d0d3"
+      "hash": "452ccbbe85ec2e1fd0425ae9dedda152dc4ad79b"
     },
     "be.robertlibert.pioupioumap": {
       "version": "https://github.com/RobertLibert/2025_04_17_BonjourPiouPiouMap.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "62bd7e2c77519b694c5dc79d96f5a39d21c252d4"
+      "hash": "dab78e27926935338fae0132251a8e71c1851b72"
     },
     "be.seblucverh.pioupioumap": {
       "version": "https://github.com/SebastVer/2025_04_17_BonjourPiouPiouMap.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "4292ea92978aef6560f7a8e2882059e27437522e"
+      "hash": "98d4bfd1e6a27b40e7a0945b5fd0e1f4f4388df8"
     },
     "com.meta.xr.mrutilitykit": {
       "version": "74.0.2",
@@ -334,12 +355,11 @@
     "com.unity.ext.nunit": {
       "version": "2.0.5",
       "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
+      "source": "builtin",
+      "dependencies": {}
     },
     "com.unity.ide.rider": {
-      "version": "3.0.31",
+      "version": "3.0.35",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -348,7 +368,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.22",
+      "version": "2.0.23",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -357,7 +377,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.13.0",
+      "version": "1.14.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -457,7 +477,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.settings-manager": {
-      "version": "2.0.1",
+      "version": "2.1.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -473,15 +493,14 @@
       }
     },
     "com.unity.test-framework": {
-      "version": "1.4.6",
+      "version": "1.5.1",
       "depth": 0,
-      "source": "registry",
+      "source": "builtin",
       "dependencies": {
         "com.unity.ext.nunit": "2.0.3",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
+      }
     },
     "com.unity.test-framework.performance": {
       "version": "3.0.3",
@@ -523,7 +542,7 @@
       }
     },
     "com.unity.visualscripting": {
-      "version": "1.9.5",
+      "version": "1.9.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -533,7 +552,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.core-utils": {
-      "version": "2.5.1",
+      "version": "2.5.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
